@@ -1,0 +1,68 @@
+{
+  "id": "member1",
+  "name": "김재진",
+  "subName": "백엔드입문자",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "백엔드 첫걸음을 시작한 입문자.",
+    "detail": "개발에 대해 이번에 처음 입문해서 배우기 시작했습니다. 처음 해보는거지만 열심히 해보겠습니다. 잘 부탁드립니다."
+  },
+  "info": {
+    "description": "java와 spring을 배울 예정입니다.",
+    "birthday": "1994.04.14",
+    "location": "제주시",
+    "email": "truestory14@kakao.com",
+    "phone": "010-2616-3187"
+  },
+  "strengths": [
+    "열정",
+    "협업",
+    "다양한 경험"
+  ],
+  "skills": [
+    { "name": "HTML", "progress": 80 },
+    { "name": "CSS", "progress": 85 },
+    { "name": "JavaScript", "progress": 90 },
+    { "name": "React", "progress": 85 },
+    { "name": "TypeScript", "progress": 75 }
+  ],
+  "licenses": [
+
+  ],
+  "education": [
+    {
+      "name": "남녕 고등학교",
+      "period": "2010.03.02 ~ 2013.02.14",
+      "location": "제주시"
+    },
+    {
+      "name": "제주 대학교",
+      "period": "2013.03.02 ~ 2021.02.20",
+      "gpa": "4.0",
+      "location": "제주시"
+    }
+  ],
+  "experience": [
+    {
+      "period": "1년",
+      "company": "테크스타트업",
+      "term": "2022.01~2023.01",
+      "team": "프론트엔드팀, 주니어 개발자",
+      "task": "React 기반 웹 애플리케이션 개발",
+      "project": {
+        "name": "고객 대시보드 개발 프로젝트",
+        "term": "2022.03~2022.12",
+        "detail": "React와 TypeScript를 사용한 대시보드 UI 개발 및 상태 관리 최적화"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "쇼핑몰 웹사이트",
+      "description": "React와 Node.js를 활용한 전자상거래 플랫폼을 개발했습니다. 사용자 인증, 상품 관리, 결제 시스템을 구현하여 안정적인 쇼핑 경험을 제공합니다.",
+      "image": "image/p1.png",
+      "link": "project.html"
+    }
+  ]
+}
+
